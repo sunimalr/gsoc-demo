@@ -3,6 +3,6 @@
 int main()
 {
 	printf("Hello World!");
-	printf("Welcome to Gsoc session");
+	printf("test");
 	return 0;
 }
